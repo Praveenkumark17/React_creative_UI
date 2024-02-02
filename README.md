@@ -1,6 +1,25 @@
-# Getting Started with Create React App
+# Getting Started with Create React App with Antd
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Description
+
+This is a React project utilizing the Ant Design UI library.
+
+## Features
+
+- Enterprise-class UI designed for web applications.
+- A set of high-quality React components out of the box.
+- Written in TypeScript with predictable static types.
+- Whole package of design resources and development tools.
+- Internationalization support for dozens of languages.
+- Powerful theme customization based on CSS-in-JS.
+
+## Installation
+
+First, install the necessary packages:
+
+npm install react react-dom antd
 
 ## Available Scripts
 
