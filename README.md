@@ -19,7 +19,7 @@ This is a React project utilizing the Ant Design UI library.
 
 First, install the necessary packages:
 
-npm install react react-dom antd
+### `npm install react react-dom antd`
 
 ## Available Scripts
 
