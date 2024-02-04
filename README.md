@@ -104,6 +104,5 @@ Forgot Password...
 
 ## Demo (Animation)
 
-https://github.com/Praveenkumark17/React_creative_UI/assets/95238197/f587a8d7-529e-4bff-b76c-51a15a97cea1
-
+https://github.com/Praveenkumark17/React_creative_UI/assets/95238197/cb161f2c-f674-4e11-a4e0-8b89a01e240d
 
