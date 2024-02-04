@@ -21,7 +21,65 @@ body {
   background-color: rgb(255, 255, 255);
   border-top-left-radius: 25px;
   border-bottom-right-radius: 25px;
+  overflow-y: hidden;
+  position: relative;
 }
+
+.form {
+  height: 600px;
+  width: 900px;
+  background-color: rgb(255, 255, 255);
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  position: absolute;
+  z-index: 1;
+}
+.forgot {
+  height: 600px;
+  width: 900px;
+  background-color: rgb(255, 255, 255);
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  transition: 5s;
+  transform: translateY(-600px);
+  position: absolute;
+  z-index: 2;
+}
+
+.box1s {
+  opacity: 0;
+  transition: 5s;
+}
+.box2s {
+  height: 600px;
+  width: 900px;
+  background-color: rgb(255, 255, 255);
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  transition: 5s;
+  transform: translateY(0px);
+  opacity: 1;
+  position: absolute;
+  z-index: 1;
+}
+
+.box1sr {
+  opacity: 1;
+  transition: 5s;
+}
+.box2sr {
+  height: 600px;
+  width: 900px;
+  background-color: rgb(255, 255, 255);
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  transition: 5s;
+  transform: translateY(-600px);
+  opacity: 0;
+  position: absolute;
+  z-index: 1;
+}
+
 .a1 {
   background-color: rgb(255, 255, 255);
   height: 600px;
@@ -29,6 +87,19 @@ body {
   border-top-left-radius: 25px;
 }
 .a2 {
+  background-color: rgb(255, 255, 255);
+  height: 600px;
+  width: 450px;
+  border-bottom-right-radius: 25px;
+}
+
+.b1 {
+  background-color: rgb(255, 255, 255);
+  height: 600px;
+  width: 450px;
+  border-top-left-radius: 25px;
+}
+.b2 {
   background-color: rgb(255, 255, 255);
   height: 600px;
   width: 450px;
@@ -68,7 +139,8 @@ body {
   transition: 5s;
   transform: translateX(0px);
 }
-.text, .hide {
+.text,
+.hide {
   transition: opacity 2.3s ease-in;
 }
 
@@ -83,45 +155,41 @@ body {
   position: absolute;
   z-index: 1;
 }
-.sign_card{
+.sign_card {
   width: 440px;
   border: none;
 }
 .sign_card .ant-card-head {
   border-bottom: none;
 }
-.date{
+.date {
   border: 1px solid rgb(207, 207, 207);
   height: 31px;
   width: 100%;
   border-radius: 5px;
 }
-.date_pic{
-  border:none;
+.date_pic {
+  border: none;
   width: 347px;
 }
-.date_pics{
+.date_pics {
   display: flex;
   justify-content: center;
 }
-.date_pics:focus{
+.date_pics:focus {
   display: flex;
   justify-content: center;
   border: none;
 }
-.date_pics:hover{
+.date_pics:hover {
   border: 1px solid rgb(47, 126, 237);
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
 }
-.date_icon{
-  /* background-color: blue; */
+.date_icon {
   width: 42px;
   display: flex;
   justify-content: center;
   align-items: center;
-  border-right: 1px solid rgb(207, 207, 207);;
+  border-right: 1px solid rgb(207, 207, 207);
 }
-
-
-
