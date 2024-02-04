@@ -1,6 +1,25 @@
-# Getting Started with Create React App
+# Getting Started with Create React App with Antd
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Description
+
+This is a React project utilizing the Ant Design UI library.
+
+## Features
+
+- Enterprise-class UI designed for web applications.
+- A set of high-quality React components out of the box.
+- Written in TypeScript with predictable static types.
+- Whole package of design resources and development tools.
+- Internationalization support for dozens of languages.
+- Powerful theme customization based on CSS-in-JS.
+
+## Installation
+
+First, install the necessary packages:
+
+### `npm install react react-dom antd`
 
 ## Available Scripts
 
@@ -68,3 +87,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## UI
+
+Sign In...
+
+![Screenshot (133)](https://github.com/Praveenkumark17/React_creative_UI/assets/95238197/b212fc8c-e8f9-48da-8071-8600b7314733)
+
+Sign Up...
+
+![Screenshot (134)](https://github.com/Praveenkumark17/React_creative_UI/assets/95238197/bdf3bb55-1e6b-43d7-a8e1-7c21b92ec0c0)
+
+## Demo (Animation)
+
+https://github.com/Praveenkumark17/React_creative_UI/assets/95238197/f587a8d7-529e-4bff-b76c-51a15a97cea1
+
+
