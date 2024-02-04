@@ -98,6 +98,10 @@ Sign Up...
 
 ![Screenshot (134)](https://github.com/Praveenkumark17/React_creative_UI/assets/95238197/bdf3bb55-1e6b-43d7-a8e1-7c21b92ec0c0)
 
+Forgot Password...
+
+![Screenshot (135)](https://github.com/Praveenkumark17/React_creative_UI/assets/95238197/c90c2662-ec81-4fb4-847a-7ab480cdb331)
+
 ## Demo (Animation)
 
 https://github.com/Praveenkumark17/React_creative_UI/assets/95238197/f587a8d7-529e-4bff-b76c-51a15a97cea1
